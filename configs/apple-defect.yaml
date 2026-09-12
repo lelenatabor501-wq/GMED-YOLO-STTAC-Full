@@ -1,0 +1,12 @@
+# Apple and surface-defect detection dataset format used by GMED-YOLO.
+
+path: /path/to/apple-defect-dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: apple
+  1: puncture
+  2: bruise
+  3: bitter pit
