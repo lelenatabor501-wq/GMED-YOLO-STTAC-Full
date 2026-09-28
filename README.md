@@ -10,6 +10,7 @@ video frames → GMED-YOLO detections → ByteTrack trajectory segments → STTA
 
 - `train_gmed_yolo.py`: detector training entry point.
 - `seeds.txt`: random seeds used for all detector experiments.
+- `CITATION.cff`: citation metadata for this software release.
 - `models/gmed-yolo.yaml`: executable GMED-YOLO architecture.
 - `modules/gmed.py`: GMED custom modules, including MSEIG, SobelConv, ConvEdgeFusion, Skip-CEF, SPDConv, and
   CSPOmniKernel.
