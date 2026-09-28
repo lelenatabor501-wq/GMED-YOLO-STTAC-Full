@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "GMED-YOLO-STTAC-Full"
+type: software
+version: 1.0.0
+
+authors:
+  - family-names: "Zhang"
+    given-names: "Yingjie"
+
+  - family-names: "Zhang"
+    given-names: "Xuanwei"
+
+  - family-names: "Zhai"
+    given-names: "Mingcan"
+
+  - family-names: "Chen"
+    given-names: "Weitao"
+
+  - family-names: "Wu"
+    given-names: "Jie"
+
+repository-code: "https://github.com/lelenatabor501-wq/GMED-YOLO-STTAC-Full"
+license: "AGPL-3.0"
